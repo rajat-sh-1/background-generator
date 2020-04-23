@@ -1,0 +1,25 @@
+body{
+	font-family: 'Hind Madurai', sans-serif;
+	color: rgba(0,0,0,0.8);
+	text-align: center;
+	letter-spacing: 0.25em;
+	background: linear-gradient(to right, yellow, orange);
+}
+
+
+h1{
+	font: 600 3.5em 'Hind Madurai', sans-serif;
+	color: rgba(0,0,0,0.6);
+	text-align: center;
+	letter-spacing: 0.05em;
+	width: 100%;
+}
+
+p{
+	font: 600 3.5em 'Hind Madurai', sans-serif;
+	color: rgba(0,0,0,0.6);
+	text-align: center;
+	letter-spacing: 0.05em;
+	width: 100%;
+}
+
